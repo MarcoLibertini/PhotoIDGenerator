@@ -1,0 +1,23 @@
+# Ignorar entornos virtuales
+venv/
+4venv/
+
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos y carpetas generadas por PyInstaller
+build/
+dist/
+*.spec
+
+# Ignorar archivos de configuración de VSCode
+.vscode/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar configuraciones de sistema
+.DS_Store
+Thumbs.db
