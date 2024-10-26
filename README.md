@@ -1,6 +1,9 @@
 # PhotoIDGenerator
 A simple and fast application that generates photos Id. with Python.
 
+![Foto(1)](https://github.com/user-attachments/assets/b52b3504-8099-4072-9a35-0b111e9840ec)
+
+
 
 Descripción del Proyecto: Generador de Fotos Carnet
 Este proyecto es una aplicación de escritorio desarrollada en Python utilizando la biblioteca Tkinter, que permite a los usuarios crear un formato de fotos carnet. Las principales características de la aplicación son:
