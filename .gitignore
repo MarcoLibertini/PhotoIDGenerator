@@ -21,3 +21,9 @@ dist/
 # Ignorar configuraciones de sistema
 .DS_Store
 Thumbs.db
+
+build/
+dist/
+*.spec
+Thumbs.db
+4venv/
